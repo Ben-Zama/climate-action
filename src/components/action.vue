@@ -303,7 +303,6 @@ onMounted(() => {
       .from(
         ".pledge-form",
         {
-          x: 50,
           opacity: 0,
           duration: 0.7,
           ease: "power2.out",
