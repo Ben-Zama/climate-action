@@ -117,6 +117,7 @@ onUnmounted(() => {
   margin: 25px 0;
   padding: 25px 15px;
   background: var(--primary);
+  overflow-x: hidden;
 
   .heading {
     padding: 0 15px;
